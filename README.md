@@ -1,6 +1,10 @@
 # Color Palettes Desktop Application
 Color Palettes Desktop application built by electron, vuejs
 
+## ScreenShot
+
+![](http://i.imgur.com/Zifk8MS.png)
+
 ## Palettes
 
 Material design
